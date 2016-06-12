@@ -1,3 +1,10 @@
 [submodule "arduino-makefile"]
 	path = arduino-makefile
 	url = https://github.com/sudar/Arduino-Makefile.git
+[submodule "lib/PubSubClient"]
+	path = lib/PubSubClient
+	url = https://github.com/knolleary/pubsubclient.git
+[submodule "lib/Ethernet"]
+	path = lib/Ethernet
+	url = https://github.com/simonvanderveldt/wiz-ethernet-library.git
+	branch = w5500
